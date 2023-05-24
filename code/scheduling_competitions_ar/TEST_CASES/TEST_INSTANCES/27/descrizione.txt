@@ -1,0 +1,13 @@
+
+
+nGare=250
+budget=12628
+costo_benzina=183
+km_litro=12
+q=20
+p_soglia_distanza=80
+distanza_totale=256048
+soglia_distanza=82812
+ubdt=103516
+cartella=TEST_INSTANCES/27/
+

@@ -1,0 +1,11 @@
+#!/bin/sh
+### par1 = folder with minizinc.dzn file
+
+if test $# -eq 0
+then
+echo "Invocazione: <$0 test_folder>"
+exit 1
+fi
+
+minizinc --solver Gecode main_ilp.mzn $1/minizinc.dzn --time-limit 300000
+

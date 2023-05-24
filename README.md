@@ -22,25 +22,25 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 <tr> 
 	<td></td>
      <td><a href="presentations/expressiveness_of_temporal_logic.pdf"><img src="images/slides.png" width="50"></a></td>
-	 <td><a href="reports/expressiveness_of_temporal_logic.pdf">Expressiveness of temporal logic</a></td>
+	 <td><a href="presentations/expressiveness_of_temporal_logic.pdf">Expressiveness of temporal logic</a></td>
 </tr>
 
 <tr> 
 	<td></td>
      <td><a href="presentations/logic_for_cf_languages.pdf"><img src="images/slides.png" width="50"></a></td>
-	 <td><a href="reports/logic_for_cf_languages.pdf">Logic for context-free languages</a></td>
+	 <td><a href="presentations/logic_for_cf_languages.pdf">Logic for context-free languages</a></td>
 </tr>
 
 <tr> 
 <td></td>
      <td><a href="presentations/neighbourhood_voronoi_diagram_approach.pdf"><img src="images/slides.png" width="50"></a></td>
-	 <td><a href="reports/neighbourhood_voronoi_diagram_approach.pdf">Algorithms for neighbourhood searches: The Voronoi diagram approach</a></td>
+	 <td><a href="presentations/neighbourhood_voronoi_diagram_approach.pdf">Algorithms for neighbourhood searches: The Voronoi diagram approach</a></td>
 </tr>
 
 <tr> 
-     <td><a href="presentations/scheduling_of competition_with_ar.pdf"><img src="images/pdf.png" width="50"></a></td>
-	 <td></td>
-	 <td><a href="reports/scheduling_of competition_with_ar.pdf">Scheduling of competitions with automated reasoning techniques</a></td>
+     <td><a href="reports/scheduling_competitions_ar.pdf"><img src="images/pdf.png" width="50"></a></td>
+	 <td><a href="code/scheduling_competitions_ar.pdf"><img src="images/code.png" width="50"></a></td>
+	 <td><a href="reports/scheduling_competitions_ar.pdf">Scheduling of competitions with automated reasoning techniques</a></td>
 </tr>
 
 <tr> 

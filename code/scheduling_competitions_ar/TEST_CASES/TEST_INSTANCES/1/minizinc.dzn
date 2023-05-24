@@ -1,0 +1,11 @@
+
+
+n=5;
+giorni=[251, 251, 344, 22, 102];
+lunghezze=[15, 21, 30, 30, 33];
+distanze=[68, 274, 940, 325, 81];
+budget = 444;
+costo_benzina = 183;
+km_litro = 12;
+
+

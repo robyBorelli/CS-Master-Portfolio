@@ -1,0 +1,180 @@
+ILP ===========================
+../TEST_CASES/TEST_INSTANCES/1
+b'partecipa(251,15,68) partecipa(344,30,940) partecipa(22,30,325) partecipa(102,33,81) corsa_totale(108) distanza_totale(2828) soglia_distanza(2911)\n----------\n==========\n'
+
+1 0.0801551342010498
+
+
+../TEST_CASES/TEST_INSTANCES/2
+b'partecipa(116,17,273) partecipa(42,5,783) partecipa(138,47,786) partecipa(304,19,980) partecipa(78,20,412) partecipa(350,7,484) corsa_totale(115) distanza_totale(7436) soglia_distanza(7619)\n----------\n==========\n'
+
+2 0.21453356742858887
+
+
+../TEST_CASES/TEST_INSTANCES/3
+b'partecipa(97,47,249) partecipa(71,42,659) partecipa(140,27,156) partecipa(221,27,208) partecipa(271,29,475) partecipa(259,5,308) corsa_totale(177) distanza_totale(4110) soglia_distanza(5081)\n----------\n==========\n'
+
+3 0.5004239082336426
+
+
+../TEST_CASES/TEST_INSTANCES/4
+b'partecipa(343,50,226) partecipa(201,47,5) partecipa(223,42,866) corsa_totale(139) distanza_totale(2194) soglia_distanza(3154)\n----------\n==========\n'
+
+4 0.861811637878418
+
+
+../TEST_CASES/TEST_INSTANCES/5
+b'partecipa(236,20,682) partecipa(351,50,282) partecipa(98,47,348) partecipa(362,21,534) corsa_totale(138) distanza_totale(3692) soglia_distanza(4183)\n----------\n==========\n'
+
+5 1.3302381038665771
+
+
+../TEST_CASES/TEST_INSTANCES/6
+b'partecipa(328,50,321) partecipa(6,17,866) partecipa(93,19,14) partecipa(182,4,577) partecipa(138,7,977) partecipa(289,47,567) partecipa(118,50,221) partecipa(97,7,180) partecipa(180,35,828) partecipa(132,19,582) partecipa(3,2,891) partecipa(339,35,992) partecipa(21,35,738) corsa_totale(327) distanza_totale(15508) soglia_distanza(16518)\n----------\n==========\n'
+
+6 1.8392791748046875
+
+
+../TEST_CASES/TEST_INSTANCES/7
+b'partecipa(224,10,679) partecipa(95,19,447) partecipa(171,29,744) partecipa(51,17,25) partecipa(160,27,836) partecipa(135,7,993) partecipa(276,21,252) partecipa(111,50,403) partecipa(226,50,903) corsa_totale(230) distanza_totale(10564) soglia_distanza(11232)\n----------\n==========\n'
+
+7 2.279097557067871
+
+
+../TEST_CASES/TEST_INSTANCES/8
+b'partecipa(257,47,695) partecipa(158,47,478) partecipa(227,4,986) partecipa(310,50,236) corsa_totale(148) distanza_totale(4790) soglia_distanza(5134)\n----------\n==========\n'
+
+8 2.610258102416992
+
+
+../TEST_CASES/TEST_INSTANCES/9
+b'partecipa(348,42,783) partecipa(224,50,151) partecipa(41,50,303) partecipa(322,2,111) partecipa(163,35,528) corsa_totale(179) distanza_totale(3752) soglia_distanza(4032)\n----------\n==========\n'
+
+9 3.366685152053833
+
+
+../TEST_CASES/TEST_INSTANCES/10
+b'partecipa(304,5,60) partecipa(191,21,563) partecipa(86,5,14) partecipa(72,17,235) partecipa(202,50,238) corsa_totale(98) distanza_totale(2220) soglia_distanza(2819)\n----------\n==========\n'
+
+10 4.4638378620147705
+
+
+../TEST_CASES/TEST_INSTANCES/11
+b'partecipa(308,10,806) partecipa(338,21,971) partecipa(179,17,830) partecipa(31,42,265) partecipa(122,7,171) partecipa(146,33,842) partecipa(297,42,184) partecipa(266,50,402) partecipa(10,27,388) partecipa(208,50,333) partecipa(269,2,399) partecipa(101,47,36) partecipa(352,47,734) corsa_totale(395) distanza_totale(12722) soglia_distanza(14340)\n----------\n==========\n'
+
+11 4.391530513763428
+
+
+../TEST_CASES/TEST_INSTANCES/12
+b'partecipa(97,47,616) partecipa(241,33,668) partecipa(53,1,317) partecipa(291,33,878) partecipa(352,10,857) partecipa(225,42,513) partecipa(357,1,155) partecipa(43,47,662) partecipa(147,47,328) partecipa(258,4,949) corsa_totale(265) distanza_totale(11886) soglia_distanza(12255)\n----------\n==========\n'
+
+12 5.863692283630371
+
+
+../TEST_CASES/TEST_INSTANCES/13
+b'partecipa(42,33,298) partecipa(58,30,778) partecipa(32,1,504) partecipa(247,30,318) partecipa(272,2,854) partecipa(30,27,435) partecipa(158,35,505) partecipa(173,47,240) partecipa(7,30,707) partecipa(153,2,503) partecipa(323,7,195) partecipa(74,47,928) partecipa(138,50,633) partecipa(120,2,206) partecipa(245,5,981) partecipa(85,1,879) corsa_totale(349) distanza_totale(17928) soglia_distanza(20177)\n----------\n==========\n'
+
+13 5.911970376968384
+
+
+../TEST_CASES/TEST_INSTANCES/14
+b'partecipa(265,30,61) partecipa(171,19,336) partecipa(19,4,42) partecipa(352,42,350) partecipa(91,50,759) partecipa(144,19,350) partecipa(68,5,958) partecipa(243,7,641) partecipa(256,7,14) partecipa(336,29,157) partecipa(226,47,294) partecipa(48,19,65) partecipa(160,20,309) corsa_totale(298) distanza_totale(8672) soglia_distanza(8681)\n----------\n==========\n'
+
+14 6.765259265899658
+
+
+../TEST_CASES/TEST_INSTANCES/15
+b'partecipa(50,4,9) partecipa(265,35,336) partecipa(364,47,240) partecipa(233,18,113) partecipa(278,19,241) partecipa(4,50,555) partecipa(45,42,199) partecipa(70,4,801) corsa_totale(219) distanza_totale(4988) soglia_distanza(5508)\n----------\n==========\n'
+
+15 8.278745889663696
+
+
+../TEST_CASES/TEST_INSTANCES/16
+b'partecipa(202,35,293) partecipa(301,30,94) partecipa(239,18,699) partecipa(29,30,739) partecipa(339,5,245) partecipa(106,5,688) partecipa(320,7,628) partecipa(361,50,26) partecipa(220,33,79) partecipa(60,47,827) partecipa(168,50,612) partecipa(304,5,737) partecipa(333,1,443) partecipa(44,33,958) partecipa(4,4,363) partecipa(334,50,895) partecipa(278,5,453) partecipa(211,7,714) partecipa(79,50,78) partecipa(141,20,909) partecipa(102,50,430) corsa_totale(535) distanza_totale(21820) soglia_distanza(26622)\n----------\n==========\n'
+
+16 8.401030540466309
+
+
+../TEST_CASES/TEST_INSTANCES/17
+b'partecipa(175,50,669) partecipa(232,50,651) partecipa(21,35,556) partecipa(257,1,525) partecipa(141,1,707) partecipa(136,2,829) partecipa(278,19,957) partecipa(159,35,722) partecipa(299,33,645) partecipa(326,42,298) partecipa(195,29,652) partecipa(214,20,155) partecipa(191,5,590) partecipa(38,7,78) partecipa(55,1,372) partecipa(121,21,767) partecipa(256,10,769) partecipa(342,18,553) partecipa(225,1,720) partecipa(259,42,216) partecipa(145,19,902) partecipa(64,35,786) partecipa(80,20,659) partecipa(34,20,872) partecipa(313,50,806) corsa_totale(566) distanza_totale(30912) soglia_distanza(33167)\n----------\n==========\n'
+
+17 17.3258216381073
+
+
+../TEST_CASES/TEST_INSTANCES/18
+b'partecipa(125,42,605) partecipa(261,50,223) partecipa(171,15,813) partecipa(100,50,722) partecipa(75,42,275) partecipa(321,1,433) partecipa(62,30,506) partecipa(29,29,632) partecipa(114,47,277) partecipa(187,20,626) partecipa(307,4,180) partecipa(51,50,841) partecipa(135,5,920) partecipa(324,18,663) partecipa(155,5,173) corsa_totale(408) distanza_totale(15778) soglia_distanza(17534)\n----------\n==========\n'
+
+18 62.76292896270752
+
+
+../TEST_CASES/TEST_INSTANCES/19
+b'partecipa(335,50,495) partecipa(109,35,784) partecipa(208,18,65) partecipa(352,33,883) partecipa(76,30,992) partecipa(70,7,295) partecipa(252,2,501) partecipa(139,7,134) partecipa(64,42,239) partecipa(149,50,304) partecipa(48,29,94) partecipa(122,1,853) partecipa(167,18,108) corsa_totale(322) distanza_totale(11494) soglia_distanza(11855)\n----------\n'
+
+19 300.0228021144867
+
+
+../TEST_CASES/TEST_INSTANCES/20
+b'partecipa(24,42,452) partecipa(159,5,52) partecipa(112,18,468) partecipa(303,35,421) partecipa(271,19,131) partecipa(185,30,270) partecipa(133,42,409) partecipa(162,50,635) partecipa(44,27,132) corsa_totale(268) distanza_totale(5940) soglia_distanza(5967)\n----------\n==========\n'
+
+20 20.987877368927002
+
+
+../TEST_CASES/TEST_INSTANCES/21
+b'partecipa(55,10,356) partecipa(306,33,722) partecipa(269,7,39) partecipa(350,1,448) partecipa(210,19,561) partecipa(24,47,486) partecipa(343,7,492) partecipa(345,7,265) partecipa(224,35,743) partecipa(90,30,397) partecipa(355,50,802) partecipa(267,50,47) partecipa(108,2,231) partecipa(296,7,998) partecipa(276,2,495) partecipa(101,33,765) partecipa(127,2,423) partecipa(185,17,720) partecipa(59,50,952) partecipa(198,27,874) partecipa(344,21,662) partecipa(79,50,483) partecipa(125,47,770) partecipa(282,42,127) partecipa(40,33,384) corsa_totale(629) distanza_totale(26484) soglia_distanza(34340)\n----------\n==========\n'
+
+21 216.446870803833
+
+
+../TEST_CASES/TEST_INSTANCES/22
+b'partecipa(216,7,387) partecipa(230,30,843) partecipa(349,30,508) partecipa(17,7,751) partecipa(271,7,764) partecipa(196,1,176) partecipa(261,21,909) partecipa(325,33,643) partecipa(35,10,651) partecipa(76,10,515) partecipa(47,7,484) partecipa(277,20,615) partecipa(198,33,607) partecipa(8,7,136) partecipa(256,5,128) partecipa(175,20,351) partecipa(217,42,74) partecipa(97,50,908) partecipa(220,5,928) partecipa(364,42,572) partecipa(51,47,858) partecipa(163,30,265) partecipa(249,17,308) partecipa(64,15,950) partecipa(84,10,101) partecipa(258,1,471) partecipa(14,30,91) corsa_totale(537) distanza_totale(27988) soglia_distanza(32124)\n----------\n==========\n'
+
+22 120.95071458816528
+
+
+../TEST_CASES/TEST_INSTANCES/23
+b'partecipa(121,30,305) partecipa(137,18,136) partecipa(238,50,922) partecipa(336,47,495) partecipa(113,2,319) partecipa(351,27,439) partecipa(5,50,520) partecipa(312,27,888) partecipa(275,50,569) partecipa(262,5,660) partecipa(17,47,44) partecipa(132,5,775) partecipa(90,50,490) partecipa(307,7,867) partecipa(209,21,477) partecipa(66,50,835) partecipa(40,50,425) partecipa(104,50,985) partecipa(98,5,177) corsa_totale(591) distanza_totale(20656) soglia_distanza(20996)\n----------\n==========\n'
+
+23 111.85900926589966
+
+
+../TEST_CASES/TEST_INSTANCES/24
+b'partecipa(151,47,66) partecipa(165,50,778) partecipa(17,29,52) partecipa(347,10,735) partecipa(139,5,867) partecipa(53,47,872) partecipa(221,50,483) partecipa(144,10,475) partecipa(292,29,407) partecipa(317,35,359) partecipa(129,20,172) partecipa(195,29,439) partecipa(3,21,268) partecipa(216,7,1000) corsa_totale(389) distanza_totale(13946) soglia_distanza(14183)\n----------\n'
+
+24 300.02181124687195
+
+
+../TEST_CASES/TEST_INSTANCES/25
+b'partecipa(167,7,181) partecipa(73,7,161) partecipa(163,50,341) partecipa(80,4,297) partecipa(330,4,808) partecipa(275,50,363) partecipa(88,50,432) partecipa(70,47,84) corsa_totale(219) distanza_totale(5334) soglia_distanza(5862)\n----------\n==========\n'
+
+25 31.584541082382202
+
+
+../TEST_CASES/TEST_INSTANCES/26
+b'partecipa(255,5,528) partecipa(259,1,853) partecipa(66,29,316) partecipa(253,42,983) partecipa(241,47,281) partecipa(173,27,926) partecipa(180,2,605) partecipa(29,47,519) partecipa(160,20,688) partecipa(256,4,689) partecipa(91,4,219) partecipa(86,33,61) partecipa(337,2,910) partecipa(274,27,283) partecipa(125,10,468) partecipa(26,10,452) partecipa(363,33,147) partecipa(44,50,706) partecipa(34,2,799) partecipa(319,21,509) partecipa(126,47,617) partecipa(40,5,14) partecipa(103,2,198) partecipa(71,5,200) partecipa(116,10,277) partecipa(169,7,359) partecipa(302,1,923) partecipa(171,5,195) partecipa(32,4,1000) partecipa(350,18,322) partecipa(183,5,115) partecipa(27,4,474) partecipa(289,35,475) partecipa(14,20,989) partecipa(90,7,982) partecipa(340,5,904) partecipa(184,27,62) partecipa(213,7,842) partecipa(335,29,918) partecipa(5,10,685) partecipa(311,5,738) partecipa(328,2,70) partecipa(307,33,96) partecipa(164,7,246) partecipa(210,20,138) partecipa(65,10,330) partecipa(352,2,279) partecipa(185,2,907) partecipa(320,7,437) partecipa(218,7,395) partecipa(225,4,985) partecipa(59,5,993) partecipa(222,20,250) corsa_totale(793) distanza_totale(54714) soglia_distanza(90157)\n----------\n'
+
+26 300.02848958969116
+
+
+../TEST_CASES/TEST_INSTANCES/27
+b'partecipa(40,42,471) partecipa(211,7,231) partecipa(242,50,349) partecipa(238,5,483) partecipa(313,4,609) partecipa(91,7,995) partecipa(168,47,539) partecipa(308,27,516) partecipa(237,4,500) partecipa(322,27,380) partecipa(18,33,944) partecipa(47,5,212) partecipa(202,18,625) partecipa(216,1,647) partecipa(343,2,179) partecipa(185,33,27) partecipa(200,10,589) partecipa(344,4,55) partecipa(129,7,303) partecipa(107,2,204) partecipa(112,33,708) partecipa(297,29,46) partecipa(246,5,424) partecipa(86,10,767) partecipa(57,2,583) partecipa(362,29,82) partecipa(27,5,499) partecipa(221,2,353) partecipa(264,50,445) partecipa(310,1,58) partecipa(204,2,231) partecipa(177,4,646) partecipa(364,2,437) partecipa(142,1,888) partecipa(74,30,606) partecipa(197,5,48) partecipa(351,21,299) partecipa(147,1,497) partecipa(45,4,302) partecipa(35,7,237) partecipa(141,30,115) partecipa(355,2,936) partecipa(339,10,547) partecipa(213,21,631) partecipa(253,17,682) partecipa(146,5,123) partecipa(85,2,461) partecipa(154,50,720) partecipa(88,47,50) partecipa(2,20,829) partecipa(340,35,908) partecipa(140,7,82) partecipa(230,42,777) partecipa(104,2,589) partecipa(187,7,119) partecipa(28,2,512) partecipa(283,17,304) corsa_totale(894) distanza_totale(50798) soglia_distanza(82806)\n----------\n'
+
+27 300.05398201942444
+
+
+../TEST_CASES/TEST_INSTANCES/28
+b'partecipa(131,27,657) partecipa(347,30,882) partecipa(221,2,623) partecipa(233,7,385) partecipa(69,1,484) partecipa(339,5,47) partecipa(207,35,100) partecipa(4,35,432) partecipa(19,19,332) partecipa(2,4,285) partecipa(171,17,736) partecipa(335,33,891) partecipa(15,7,643) partecipa(59,4,1000) partecipa(298,1,379) partecipa(366,50,141) partecipa(250,7,856) partecipa(222,33,440) partecipa(156,10,544) partecipa(70,7,634) partecipa(155,5,29) partecipa(91,19,883) partecipa(353,5,972) partecipa(56,42,889) partecipa(225,7,407) partecipa(84,10,843) partecipa(287,35,751) partecipa(145,1,693) partecipa(198,7,894) partecipa(305,7,512) partecipa(111,30,799) partecipa(185,35,207) partecipa(275,42,1000) partecipa(235,27,475) partecipa(319,33,424) partecipa(144,30,26) partecipa(299,19,976) partecipa(67,15,844) partecipa(214,5,851) partecipa(146,5,388) partecipa(41,30,218) partecipa(158,18,204) partecipa(104,7,371) partecipa(164,1,567) partecipa(331,7,965) partecipa(258,4,19) partecipa(327,7,670) partecipa(218,5,276) partecipa(194,2,999) corsa_totale(794) distanza_totale(55286) soglia_distanza(71514)\n----------\n'
+
+28 300.07857751846313
+
+
+../TEST_CASES/TEST_INSTANCES/29
+b'=====UNKNOWN=====\n'
+
+29 300.02659368515015
+
+
+../TEST_CASES/TEST_INSTANCES/30
+b'=====UNKNOWN=====\n'
+
+30 300.02811646461487
+

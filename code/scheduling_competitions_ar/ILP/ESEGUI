@@ -1,0 +1,38 @@
+#!/bin/sh
+### par1 = folder with minizinc.dzn file
+
+if test $# -eq 0
+then
+echo "Invocazione: <$0 test_folder>"
+exit 1
+fi
+
+cat $1/ilp.txt main.c > temp_main.c
+
+gcc temp_main.c -o temp                  # compiling c program for lp model
+./temp > model.lp                   # generating lp model
+rm temp                             
+rm temp_main.c
+glpsol --lp model.lp -w model.sol --tmlim 300 # solving ilp mode
+
+### printing solution
+res=`cat model.sol | grep "j " | cut -d' ' -f3`
+atoms=`cat model.lp | grep pa | cut -c 3-`
+obj=`cat model.sol | grep "corsa_totale" | cut -d' ' -f6`
+distTot=`cat model.sol | grep "i 1 " | cut -d' ' -f3`
+soglia=`cat model.lp | grep soglia | cut -c 3-`
+echo ""; echo "";echo ""; echo "";
+ind=1
+for i in $res
+do
+	if test "$i" = "1"
+	then 
+		r=`echo -n $atoms | cut -d' ' -f$ind`
+		echo -n "$r "
+		r=""
+	fi
+	ind=$((ind+1))
+done
+echo ""; echo "";
+echo "corsa_totale($obj) distanza_totale($distTot) $soglia"
+echo ""; echo "";

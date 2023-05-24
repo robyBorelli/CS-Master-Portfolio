@@ -1,0 +1,15 @@
+#!/bin/sh
+### par1 = folder with minizinc.dzn file
+
+if test $# -eq 0
+then
+echo "Invocazione: <$0 test_folder>"
+exit 1
+fi
+
+cat $1/asp_id.txt main.lp > temp_main.lp
+
+clingo temp_main.lp --time-limit 300
+
+rm temp_main.lp
+
