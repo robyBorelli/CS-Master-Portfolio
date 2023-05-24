@@ -9,7 +9,7 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 
 <tr> 
 	 <td><a href="reports/thesis.pdf"><img src="images/pdf.png" width="50"></a></td>
-     <td><a href="slides/thesis.pdf"><img src="images/slides.png" width="50"></a></td>
+     <td><a href="presentations/thesis.pdf"><img src="images/slides.png" width="50"></a></td>
 	 <td><a href="reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></td>
 </tr>
 
@@ -44,9 +44,9 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 </tr>
 
 <tr> 
-	 <td><a href="works/xgboost.pdf"><img src="images/pdf.png" width="50"></a></td>
-     <td><a href="works/xgboost.pdf"><img src="images/slides.png" width="50"></a></td>
-	 <td><a href="works/xgboost.pdf">XGBoost</a></td>
+	 <td><a href="reports/xgboost.pdf"><img src="images/pdf.png" width="50"></a></td>
+     <td><a href="presentations/xgboost.pdf"><img src="images/slides.png" width="50"></a></td>
+	 <td><a href="reports/xgboost.pdf">XGBoost</a></td>
 </tr>
 
 
