@@ -39,7 +39,7 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 
 <tr> 
      <td><a href="reports/scheduling_competitions_ar.pdf"><img src="images/pdf.png" width="50"></a></td>
-	 <td><a href="code/scheduling_competitions_ar.pdf"><img src="images/code.png" width="50"></a></td>
+	 <td><a href="code/scheduling_competitions_ar"><img src="images/code.png" width="50"></a></td>
 	 <td><a href="reports/scheduling_competitions_ar.pdf">Scheduling of competitions with automated reasoning techniques</a></td>
 </tr>
 
