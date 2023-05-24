@@ -17,28 +17,28 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 <tr> 
      <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="images/pdf.png" width="50"></a></td>
 	 <td><a href="https://github.com/robyBorelli/nearest-neighbours-package"><img src="images/code.png" width="50"></a></td>
-	 <td>🇮🇬🇧</td>
+	 <td>🇬🇧</td>
 	 <td><a href="https://doi.org/10.3390/biophysica2040031">Data Structures and Algorithms for k-th Nearest Neighbours Conformational Entropy Estimation</a></td>
 </tr>
 
 <tr> 
-	<td></td>
      <td><a href="presentations/expressiveness_of_temporal_logic.pdf"><img src="images/slides.png" width="50"></a></td>
-	 <td>🇮🇬🇧</td>
+	 <td></td>
+	 <td>🇬🇧</td>
 	 <td><a href="presentations/expressiveness_of_temporal_logic.pdf">Expressiveness of temporal logic</a></td>
 </tr>
 
 <tr> 
-	<td></td>
      <td><a href="presentations/logic_for_cf_languages.pdf"><img src="images/slides.png" width="50"></a></td>
+	 <td></td>
 	 <td>🇮🇹</td>
 	 <td><a href="presentations/logic_for_cf_languages.pdf">Logic for context-free languages</a></td>
 </tr>
 
 <tr> 
-<td></td>
      <td><a href="presentations/neighbourhood_voronoi_diagram_approach.pdf"><img src="images/slides.png" width="50"></a></td>
-	 <td>🇮🇬🇧</td>
+	 <td></td>
+	 <td>🇬🇧</td>
 	 <td><a href="presentations/neighbourhood_voronoi_diagram_approach.pdf">Algorithms for neighbourhood searches: The Voronoi diagram approach</a></td>
 </tr>
 
