@@ -8,8 +8,8 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 
 
 <tr> 
-	 <td><a href="reports/thesis.pdf"><img src="images/pdf.png" width="50"></a></td>
-     <td><a href="presentations/thesis.pdf"><img src="images/slides.png" width="50"></a></td>
+	 <td><a href="reports/thesis.pdf"><img src="images/pdf.png" width="50"><br> Thesis</a></td>
+     <td><a href="presentations/thesis.pdf"><img src="images/slides.png" width="50"><br> Presentation</a></td>
 	 <td>🇮🇹</td>
 	 <td><a href="reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></td>
 </tr>
