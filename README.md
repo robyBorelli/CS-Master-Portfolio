@@ -4,7 +4,7 @@ In this page I expose some of the material I've prepared and I'm producing durin
 I share my thesis, my seminars and more. Some of the material is written in english and some of the material is written in italian.
 
 
-<table style="border-collapse: separate;" width="100%" cellspacing="0" cellpadding="20" height="100%">
+<table style="border-collapse: separate;" cellspacing="0" cellpadding="20">
 
 
 <tr> 
