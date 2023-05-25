@@ -1,5 +1,5 @@
 
-## Seminars
+<h2>Materiale didattico</h2>
 In this page I expose some of the material I've prepared and I'm producing during my university journey.
 I share my thesis, my seminars and more. Some of the material is written in english and some of the material is written in italian.
 
