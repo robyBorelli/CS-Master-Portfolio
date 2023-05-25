@@ -8,52 +8,52 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 
 
 <tr> 
-	 <td><a href="reports/thesis.pdf"><img src="images/pdf.png" width="50"><br> Thesis</a></td>
-     <td><a href="presentations/thesis.pdf"><img src="images/slides.png" width="50"><br> Slides</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/reports/thesis.pdf"><img src="https://github.com/robyBorelli/seminars/images/pdf.png" width="50"><br> Thesis</a></td>
+     <td><a href="https://github.com/robyBorelli/seminars/presentations/thesis.pdf"><img src="https://github.com/robyBorelli/seminars/images/slides.png" width="50"><br> Slides</a></td>
 	 <td>🇮🇹</td>
-	 <td><a href="reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></td>
 </tr>
 
 <tr> 
-     <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="images/web.png" width="50"><br> DOI</a></td>
-	 <td><a href="https://github.com/robyBorelli/nearest-neighbours-package"><img src="images/code.png" width="50"><br> Code</a></td>
+     <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="https://github.com/robyBorelli/seminars/images/web.png" width="50"><br> DOI</a></td>
+	 <td><a href="https://github.com/robyBorelli/nearest-neighbours-package"><img src="https://github.com/robyBorelli/seminars/images/code.png" width="50"><br> Code</a></td>
 	 <td>🇬🇧</td>
 	 <td><a href="https://doi.org/10.3390/biophysica2040031">Data Structures and Algorithms for k-th Nearest Neighbours Conformational Entropy Estimation</a></td>
 </tr>
 
 <tr> 
-     <td><a href="presentations/expressiveness_of_temporal_logic.pdf"><img src="images/slides.png" width="50"><br> Slides</a></td>
+     <td><a href="https://github.com/robyBorelli/seminars/presentations/expressiveness_of_temporal_logic.pdf"><img src="https://github.com/robyBorelli/seminars/images/slides.png" width="50"><br> Slides</a></td>
 	 <td></td>
 	 <td>🇬🇧</td>
-	 <td><a href="presentations/expressiveness_of_temporal_logic.pdf">Expressiveness of temporal logic</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/presentations/expressiveness_of_temporal_logic.pdf">Expressiveness of temporal logic</a></td>
 </tr>
 
 <tr> 
-     <td><a href="presentations/logic_for_cf_languages.pdf"><img src="images/slides.png" width="50"><br> Slides</a></td>
+     <td><a href="https://github.com/robyBorelli/seminars/presentations/logic_for_cf_languages.pdf"><img src="https://github.com/robyBorelli/seminars/images/slides.png" width="50"><br> Slides</a></td>
 	 <td></td>
 	 <td>🇮🇹</td>
-	 <td><a href="presentations/logic_for_cf_languages.pdf">Logic for context-free languages</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/presentations/logic_for_cf_languages.pdf">Logic for context-free languages</a></td>
 </tr>
 
 <tr> 
-     <td><a href="presentations/neighbourhood_voronoi_diagram_approach.pdf"><img src="images/slides.png" width="50"><br> Slides</a></td>
+     <td><a href="https://github.com/robyBorelli/seminars/presentations/neighbourhood_voronoi_diagram_approach.pdf"><img src="https://github.com/robyBorelli/seminars/images/slides.png" width="50"><br> Slides</a></td>
 	 <td></td>
 	 <td>🇬🇧</td>
-	 <td><a href="presentations/neighbourhood_voronoi_diagram_approach.pdf">Algorithms for neighbourhood searches: The Voronoi diagram approach</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/presentations/neighbourhood_voronoi_diagram_approach.pdf">Algorithms for neighbourhood searches: The Voronoi diagram approach</a></td>
 </tr>
 
 <tr> 
-     <td><a href="reports/scheduling_competitions_ar.pdf"><img src="images/pdf.png" width="50"><br> Report</a></td>
-	 <td><a href="code/scheduling_competitions_ar"><img src="images/code.png" width="50"><br> Code</a></td>
+     <td><a href="https://github.com/robyBorelli/seminars/reports/scheduling_competitions_ar.pdf"><img src="https://github.com/robyBorelli/seminars/images/pdf.png" width="50"><br> Report</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/code/scheduling_competitions_ar"><img src="https://github.com/robyBorelli/seminars/images/code.png" width="50"><br> Code</a></td>
 	 <td>🇮🇹</td>
-	 <td><a href="reports/scheduling_competitions_ar.pdf">Scheduling of competitions with automated reasoning techniques</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/reports/scheduling_competitions_ar.pdf">Scheduling of competitions with automated reasoning techniques</a></td>
 </tr>
 
 <tr> 
-	 <td><a href="reports/xgboost.pdf"><img src="images/pdf.png" width="50"><br> Report</a></td>
-     <td><a href="presentations/xgboost.pdf"><img src="images/slides.png" width="50"><br> Slides</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/reports/xgboost.pdf"><img src="https://github.com/robyBorelli/seminars/images/pdf.png" width="50"><br> Report</a></td>
+     <td><a href="https://github.com/robyBorelli/seminars/presentations/xgboost.pdf"><img src="https://github.com/robyBorelli/seminars/images/slides.png" width="50"><br> Slides</a></td>
 	 <td>🇮🇹</td>
-	 <td><a href="reports/xgboost.pdf">XGBoost</a></td>
+	 <td><a href="https://github.com/robyBorelli/seminars/reports/xgboost.pdf">XGBoost</a></td>
 </tr>
 
 
