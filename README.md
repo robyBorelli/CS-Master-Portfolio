@@ -15,7 +15,7 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 </tr>
 
 <tr> 
-     <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="images/pdf.png" width="50"><br> DOI</a></td>
+     <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="images/web.png" width="50"><br> DOI</a></td>
 	 <td><a href="https://github.com/robyBorelli/nearest-neighbours-package"><img src="images/code.png" width="50"><br> Code</a></td>
 	 <td>🇬🇧</td>
 	 <td><a href="https://doi.org/10.3390/biophysica2040031">Data Structures and Algorithms for k-th Nearest Neighbours Conformational Entropy Estimation</a></td>
