@@ -22,10 +22,10 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 </tr>
 
 <tr> 
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/expressiveness_of_temporal_logic.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Report</a></td>
      <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/expressiveness_of_temporal_logic.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
-	 <td></td>
 	 <td>🇬🇧</td>
-	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/expressiveness_of_temporal_logic.pdf">Expressiveness of temporal logic</a></td>
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/expressiveness_of_temporal_logic.pdf">Expressiveness of temporal logic</a></td>
 </tr>
 
 <tr> 
@@ -33,13 +33,6 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 	 <td></td>
 	 <td>🇮🇹</td>
 	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/logic_for_cf_languages.pdf">Logic for context-free languages</a></td>
-</tr>
-
-<tr> 
-     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/neighbourhood_voronoi_diagram_approach.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
-	 <td></td>
-	 <td>🇬🇧</td>
-	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/neighbourhood_voronoi_diagram_approach.pdf">Algorithms for neighbourhood searches: The Voronoi diagram approach</a></td>
 </tr>
 
 <tr> 
