@@ -21,6 +21,15 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 	 <td><a href="https://doi.org/10.3390/biophysica2040031">Data Structures and Algorithms for k-th Nearest Neighbours Conformational Entropy Estimation</a></td>
 </tr>
 
+
+
+<tr> 
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/3sum.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Report</a></td>
+     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/3sum.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
+	 <td>🇬🇧</td>
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/3sum.pdf">The 3SUM problem admits subquadratic solutions</a></td>
+</tr>
+
 <tr> 
 	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/expressiveness_of_temporal_logic.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Report</a></td>
      <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/expressiveness_of_temporal_logic.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
