@@ -30,6 +30,8 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 	 <td>
 	 <details>
 	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/3sum.pdf">The 3SUM problem admits subquadratic solutions</a></summary>
+	 <b>Type: </b> Seminar for the course in Advanced Algorithms<br>
+	 <b>Language: </b> English<br>
 	 <b>Abstract: </b> In this work, I consider the 3sum problem. Recent years’ studies have shown that the problem admits a subquadratic solution. The 3sum problem has been used in the area of fine-grained complexity to establish lower bounds to a wide range of other problems (which have shown to be 3sum-hard) for example in the computational geometry area. In this paper, I examine the Freund approach to obtain a subquadratic algorithm. To obtain a saving in the complexity, several tricks have been applied and in particular it has been shown how to efficiently enumerate the so-called chunks through a correspondence with paths in a matrix and then all pairs of blocks agreeing with such derived chunks are obtained through a reduction to the dominance-merge problem.
 	 </details>
 	 </td>
