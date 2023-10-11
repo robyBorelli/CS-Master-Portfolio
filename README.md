@@ -40,7 +40,7 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 	 <td></td>
 	<td>
 	 <details>
-	 <summary><a href=" https://doi.org/10.1002/wcms.1691">The kth nearest neighbor method for estimation of entropy changes from molecular ensembles</a></summary>
+	 <summary><a href="https://doi.org/10.1002/wcms.1691">The kth nearest neighbor method for estimation of entropy changes from molecular ensembles</a></summary>
 	 <b>Type: </b> Publication<br>
 	 <b>Language: </b> English<br>
 	 <b>Authors: </b> Federico Fogolari, Roberto Borelli, Agostino Dovier, Gennaro Esposito<br>
