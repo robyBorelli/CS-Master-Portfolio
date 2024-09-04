@@ -90,6 +90,21 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 	 </td>
 </tr>
 
+
+<tr> 
+     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/automata_minimization.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Report</a></td>
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/code/automata_minimization"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/code.png" width="50"><br> Code</a></td>
+	 <td>
+	 <details>
+	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/automata_minimization.pdf">Parallel Automata Minimization</a></summary>
+	 <b>Type: </b> Project for the course "Programming on Parallel Architectures"<br>
+	 <b>Language: </b> Italian<br>
+	  <b>Authors: </b> Roberto Borelli (OpenMP), Stefano Rocco (CUDA)<br>
+	 <b>Abstract: </b> The minimization problem of an automaton is central in automata theory and has various practical implications. In this work, we aim to develop a parallel version of the well-known Moore's algorithm, which classically runs in quadratic time. We will review the fundamental concepts and problems in the field, analyze the serial algorithm by examining its code, theoretical properties, and time complexity. Using the OpenMP programming model, we will develop six different parallel versions of the algorithm. The first four, more efficient versions, are based on dividing the main loop into parallel tasks. The fifth version addresses the issue of merging multiple iterations of the refinement loop. The sixth and most scalable version will attempt an approach based on the parallelization of RadixSort and, ultimately, CountingSort, which will then be further developed in CUDA. We will divide CountingSort into three phases, proposing various implementation solutions for each phase using this programming model. We will test and compare the OpenMP and CUDA implementations on a significant set of instances.
+	 </details>
+	 </td>
+</tr>
+
 <tr> 
      <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/scheduling_competitions_ar.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Report</a></td>
 	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/code/scheduling_competitions_ar"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/code.png" width="50"><br> Code</a></td>

@@ -1,0 +1,14 @@
+/,1,2,3
+0 serial,26.64,26.46,28.59
+1 parallel for,13.81,15.14,19.57
+1 serial,17.02,16.24,23.32
+2 parallel task,17.88,17.27,22.83
+2 serial,27.82,28.27,30.92
+3 parallel sections,6.19,7.55,6.87
+3 serial,12.56,13.68,12.71
+4 parallel sections splittedsort,7.34,7.23,8.26
+4 serial,14.06,17.54,13.00
+5 parallel doublesign,8.12,10.07,6.78
+5 serial,13.28,19.31,13.11
+6 parallel radixsort,12.31,17.12,16.64
+6 serial,27.58,28.21,26.13

@@ -1,0 +1,8 @@
+Iterations: 2
+Q: 0  ->[1] 2 
+Sigma: a b c 
+Delta: 
+   a b c 
+0  0 0 0 
+1  2 0 0 
+2  0 1 0 
