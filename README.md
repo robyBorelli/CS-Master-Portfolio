@@ -1,25 +1,11 @@
 
-<h2>Projects, Seminars and material</h2>
-In this page I expose some of the material I've prepared and I'm producing during my university journey.
-I share my thesis, my seminars and more. Some of the material is written in english and some of the material is written in italian.
+## Publications, Academic Projects and Thesis 
 
+In this repository, I showcase my academic journey during my Master's degree in Computer Science. It includes my **thesis**, **publications**, and various **projects**.
+ The material spans across multiple areas of computer science such as **algorithms**, **automata theory**, **logic** and **parallel computing**.
 
+### Publications
 <table>
-
-
-<tr> 
-	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Thesis</a></td>
-     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
-	<td>
-	 <details>
-	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></summary>
-	 <b>Type: </b> Bachelor's thesis<br>
-	 <b>Language: </b> Italian<br>
-	 <b>Abstract: </b> 
-	 </details>
-	 </td>
-</tr>
-
 <tr> 
      <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/web.png" width="50"><br> DOI</a></td>
 	 <td><a href="https://github.com/robyBorelli/nearest-neighbours-package"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/code.png" width="50"><br> Code</a></td>
@@ -48,9 +34,12 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 	 </details>
 	 </td>
 </tr>
+</table>
 
+---
 
-
+### Academic Projects
+<table>
 <tr> 
 	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/3sum.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Report</a></td>
      <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/3sum.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
@@ -133,3 +122,25 @@ I share my thesis, my seminars and more. Some of the material is written in engl
 
 
 </table> 
+
+---
+
+
+### Thesis
+<table>
+<tr> 
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Thesis</a></td>
+     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
+	<td>
+	 <details>
+	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></summary>
+	 <b>Type: </b> Bachelor's thesis<br>
+	 <b>Language: </b> Italian<br>
+	 <b>Abstract: </b> 
+	 </details>
+	 </td>
+</tr>
+</table>
+
+---
+
