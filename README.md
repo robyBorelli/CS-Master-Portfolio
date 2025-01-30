@@ -6,19 +6,7 @@ In this repository, I showcase my academic journey during my Master's degree in 
 
 ### Publications
 <table>
-<tr> 
-     <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/web.png" width="50"><br> DOI</a></td>
-	 <td><a href="https://github.com/robyBorelli/nearest-neighbours-package"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/code.png" width="50"><br> Code</a></td>
-	<td>
-	 <details>
-	 <summary><a href="https://doi.org/10.3390/biophysica2040031">Data Structures and Algorithms for k-th Nearest Neighbours Conformational Entropy Estimation</a></summary>
-	 <b>Type: </b> Publication<br>
-	 <b>Language: </b> English<br>
-	 <b>Authors: </b> Roberto Borelli, Agostino Dovier and Federico Fogolari<br>
-	 <b>Abstract: </b> Entropy of multivariate distributions may be estimated based on the distances of nearest neighbours from each sample from a statistical ensemble. This technique has been applied on biomolecular systems for estimating both conformational and translational/rotational entropy. The degrees of freedom which mostly define conformational entropy are torsion angles with their periodicity. In this work, tree structures and algorithms to quickly generate lists of nearest neighbours for periodic and non-periodic data are reviewed and applied to biomolecular conformations as described by torsion angles. The effect of dimensionality, number of samples, and number of neighbours on the computational time is assessed. The main conclusion is that using proper data structures and algorithms can greatly reduce the complexity of nearest neighbours lists generation, which is the bottleneck step in nearest neighbours entropy estimation.
-	 </details>
-	 </td>
-</tr>
+
 
 
 <tr> 
@@ -34,12 +22,40 @@ In this repository, I showcase my academic journey during my Master's degree in 
 	 </details>
 	 </td>
 </tr>
+
+<tr> 
+     <td><a href="https://doi.org/10.3390/biophysica2040031"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/web.png" width="50"><br> DOI</a></td>
+	 <td><a href="https://github.com/robyBorelli/nearest-neighbours-package"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/code.png" width="50"><br> Code</a></td>
+	<td>
+	 <details>
+	 <summary><a href="https://doi.org/10.3390/biophysica2040031">Data Structures and Algorithms for k-th Nearest Neighbours Conformational Entropy Estimation</a></summary>
+	 <b>Type: </b> Publication<br>
+	 <b>Language: </b> English<br>
+	 <b>Authors: </b> Roberto Borelli, Agostino Dovier and Federico Fogolari<br>
+	 <b>Abstract: </b> Entropy of multivariate distributions may be estimated based on the distances of nearest neighbours from each sample from a statistical ensemble. This technique has been applied on biomolecular systems for estimating both conformational and translational/rotational entropy. The degrees of freedom which mostly define conformational entropy are torsion angles with their periodicity. In this work, tree structures and algorithms to quickly generate lists of nearest neighbours for periodic and non-periodic data are reviewed and applied to biomolecular conformations as described by torsion angles. The effect of dimensionality, number of samples, and number of neighbours on the computational time is assessed. The main conclusion is that using proper data structures and algorithms can greatly reduce the complexity of nearest neighbours lists generation, which is the bottleneck step in nearest neighbours entropy estimation.
+	 </details>
+	 </td>
+</tr>
 </table>
 
 ---
 
 ### Academic Projects
 <table>
+
+<tr> 
+     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/expressiveness_of_transformers.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
+	 <td>
+	 <td></td>
+	 <details>
+	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/expressiveness_of_transformers.pdf">On The Expressiveness Of Masked Hard-Attention Transformers</a></summary>
+	 <b>Type: </b> Seminar for the course "Foundations of Neural Networks"<br>
+	 <b>Language: </b> English<br>
+	 <b>Abstract: </b>  This work presents the paper by Yang et al. which characterizes the expressiveness of a particular class of transformers with hard attention, where attention is focused on exactly one position at a time. It is shown how to compile a transformer model into the language B-RASP. Furthermore, it is established that B-RASP is equivalent to star-free languages. The proof proceeds in two directions, employing two distinct characterizations of star-free languages: linear temporal logic over finite traces and cascades of reset automata. This study offers a deeper understanding of the transformer formalism, revealing that (i) both the feed-forward and self-attention sublayers play crucial roles, and (ii) increasing the number of layers in a transformer enhances its expressive power. This latter result contrasts with the universal approximation theorem for standard feedforward neural networks.
+	 </details>
+	 </td>
+</tr>
+
 <tr> 
 	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/3sum.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Report</a></td>
      <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/3sum.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
