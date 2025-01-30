@@ -45,8 +45,8 @@ In this repository, I showcase my academic journey during my Master's degree in 
 
 <tr> 
      <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/expressiveness_of_transformers.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
-	 <td>
 	 <td></td>
+	<td>
 	 <details>
 	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/expressiveness_of_transformers.pdf">On The Expressiveness Of Masked Hard-Attention Transformers</a></summary>
 	 <b>Type: </b> Seminar for the course "Foundations of Neural Networks"<br>
