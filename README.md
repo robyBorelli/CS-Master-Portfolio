@@ -6,7 +6,20 @@ In this repository, I showcase my academic journey during my Master's degree in 
 
 ### Publications
 <table>
-
+<tr> 
+     <td><a href="https://doi.org/10.4230/LIPIcs.STACS.2025.20"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/web.png" width="50"><br> DOI</a></td>
+	 <td></td>
+	<td>
+	 <details>
+	 <summary><a href="https://doi.org/10.4230/LIPIcs.STACS.2025.20">On cascades of Reset Automata</a></summary>
+	 <b>Type: </b> Conference Paper (STACS 2025)<br>
+	 <b>Language: </b> English<br>
+	 <b>Authors: </b> Roberto Borelli, Luca Geatti, Marco Montali, Angelo Montanari<br>
+	 <b>Abstract: The Krohn-Rhodes decomposition theorem is a pivotal result in automata theory. It introduces the concept of cascade product, where two semiautomata, that is, automata devoid of initial and final states, are combined in a feed-forward fashion. The theorem states that any semiautomaton can be decomposed into a sequence of permutation-reset semiautomata. For the counter-free case, this decomposition consists entirely of reset components with two states each. This decomposition has significantly impacted recent research in various areas of computer science, including the identification of a class of transformer encoders equivalent to star-free languages and the conversion of Linear Temporal Logic formulas into past-only expressions (pastification).
+The paper revisits the cascade product in the context of reset automata, thus considering each component of the cascade as a language acceptor. First, we give regular expression counterparts of cascades of reset automata. We then establish several expressiveness results, identifying hierarchies of languages based on the restriction of the height (number of components) of the cascade or of the number of states in each level. We also show that any cascade of reset automata can be transformed, with a quadratic increase in height, into a cascade that only includes two-state components. Finally, we show that some fundamental operations on cascades, like intersection, union, negation, and concatenation with a symbol to the left, can be directly and efficiently computed by adding a two-state component.</b>
+	 </details>
+	 </td>
+</tr>
 
 
 <tr> 
