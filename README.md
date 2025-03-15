@@ -8,7 +8,7 @@ In this repository, I showcase my academic journey during my Master's degree in 
 <table>
 <tr> 
      <td><a href="https://doi.org/10.4230/LIPIcs.STACS.2025.20"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/web.png" width="50"><br> DOI</a></td>
-	 <td></td>
+	 <td><a href="https://stacs2025.gitlab.io/slides/on-cascades-of-reset-automata.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
 	<td>
 	 <details>
 	 <summary><a href="https://doi.org/10.4230/LIPIcs.STACS.2025.20">On cascades of Reset Automata</a></summary>
