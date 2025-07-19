@@ -53,6 +53,37 @@ The paper revisits the cascade product in the context of reset automata, thus co
 
 ---
 
+### Thesis
+<table>
+<tr> 
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/m_thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Thesis</a></td>
+     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/m_thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
+	<td>
+	 <details>
+	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/m_thesis.pdf">Master's thesis: Learning from Answer Sets via ASP Encodings</a></summary>
+	 <b>Type: </b> Master's thesis<br>
+	 <b>Language: </b> English<br>
+	 <b>Abstract: </b> 
+	 </details>
+	 </td>
+</tr>
+<tr> 
+	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Thesis</a></td>
+     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
+	<td>
+	 <details>
+	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></summary>
+	 <b>Type: </b> Bachelor's thesis<br>
+	 <b>Language: </b> Italian<br>
+	 <b>Abstract: </b>  In recent years, Learning from Answer Sets (LAS) has gained increasing attention as a symbolic AI technique well-suited for explainable machine learning. The need for explainability has become a key requirement in modern AI applications, making LAS an appealing framework due to its strong logical foundations and interpretability. LAS provides a formal approach to inductive logic programming (ILP), where the goal is to learn hypotheses in the form of logic programs that explain given positive and negative examples under the answer set semantics. This thesis presents a comprehensive study of LAS, analyzing its fundamental algorithms and complexity results. A particular focus is given to the satisfiability problem of an LAS task- that is, an instance of the problem of Learning from Answer Sets- which is known to be ΣP 2-complete. To address this problem, we develop novel Answer Set Programming (ASP) encodings that translate an LAS task into an ASP program whose stable models correspond one-to-one with the solutions of the original task. We propose two alternative encodings. The first, simpler but less efficient, relies on an ASP program of exponential size. The second encoding, which introduces disjunctive rules, makes use of the saturation technique by Eiter and Gottlob. This approach ensures a linear encoding size when the background knowledge combined with the hypothesis space forms a tight program. A key contribution of this work is the development of LASCO (LAS to ASP Compiler), a tool that implements both encodings and translates LAS tasks into ASP code executable by standard solvers. LASCO supports ground and non-ground tasks and handles common ASP extensions such as arithmetic expressions and cardinality constraints.
+	 Finally, we evaluate our approach on a suite of representative benchmarks and compare its performance to ILASP, the state-of-the-art LAS solver. While ILASP generally demonstrates superior performance, largely due to its maturity and extensive optimizations, our newly developed tool LASCO outperforms all versions of ILASP on certain benchmark instances (in particular on tight tasks) and remains competitive in many others. These results highlight the potential of our approach, suggesting that the disjunctive encoding is not only of theoretical interest but also has practical relevance, and motivates further exploration.
+	 </details>
+	 </td>
+</tr>
+</table>
+
+---
+
 ### Academic Projects
 <table>
 
@@ -151,25 +182,6 @@ The paper revisits the cascade product in the context of reset automata, thus co
 
 
 </table> 
-
----
-
-
-### Thesis
-<table>
-<tr> 
-	 <td><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/pdf.png" width="50"><br> Thesis</a></td>
-     <td><a href="https://github.com/robyBorelli/Seminars/blob/main/presentations/thesis.pdf"><img src="https://raw.githubusercontent.com/robyBorelli/Seminars/main/images/slides.png" width="50"><br> Slides</a></td>
-	<td>
-	 <details>
-	 <summary><a href="https://github.com/robyBorelli/Seminars/blob/main/reports/thesis.pdf">Bachelor's thesis: Algorithms for neighbourhood searches</a></summary>
-	 <b>Type: </b> Bachelor's thesis<br>
-	 <b>Language: </b> Italian<br>
-	 <b>Abstract: </b> 
-	 </details>
-	 </td>
-</tr>
-</table>
 
 ---
 
